@@ -1,0 +1,125 @@
+Student_ID,Name,Semester,Subject,Credits,Marks
+101,Anna Kumar,1,Calculus,4,77
+101,Anna Kumar,1,Physics,3,84
+101,Anna Kumar,1,Intro to Python,3,84
+101,Anna Kumar,1,English,2,90
+101,Anna Kumar,2,Linear Algebra,4,74
+101,Anna Kumar,2,Data Structures,3,80
+101,Anna Kumar,2,Electronics,3,66
+101,Anna Kumar,2,EVS,2,77
+101,Anna Kumar,3,OOP,3,83
+101,Anna Kumar,3,Discrete Math,4,74
+101,Anna Kumar,3,Comp Org,3,81
+101,Anna Kumar,3,Web Tech,2,79
+101,Anna Kumar,4,DBMS,4,81
+101,Anna Kumar,4,OS,3,78
+101,Anna Kumar,4,Statistics,3,77
+101,Anna Kumar,4,Networks,3,80
+101,Anna Kumar,5,AI,4,82
+101,Anna Kumar,5,ML,4,75
+101,Anna Kumar,5,Cloud Comp,3,81
+101,Anna Kumar,5,Soft Skills,1,80
+101,Anna Kumar,6,Compiler Design,4,88
+101,Anna Kumar,6,Graphics,3,80
+101,Anna Kumar,6,Security,3,77
+101,Anna Kumar,6,Project,2,94
+102,Aarav Sharma,1,Calculus,4,71
+102,Aarav Sharma,1,Physics,3,82
+102,Aarav Sharma,1,Intro to Python,3,78
+102,Aarav Sharma,1,English,2,71
+102,Aarav Sharma,2,Linear Algebra,4,68
+102,Aarav Sharma,2,Data Structures,3,74
+102,Aarav Sharma,2,Electronics,3,72
+102,Aarav Sharma,2,EVS,2,75
+102,Aarav Sharma,3,OOP,3,74
+102,Aarav Sharma,3,Discrete Math,4,78
+102,Aarav Sharma,3,Comp Org,3,67
+102,Aarav Sharma,3,Web Tech,2,83
+102,Aarav Sharma,4,DBMS,4,95
+102,Aarav Sharma,4,OS,3,84
+102,Aarav Sharma,4,Statistics,3,77
+102,Aarav Sharma,4,Networks,3,82
+102,Aarav Sharma,5,AI,4,68
+102,Aarav Sharma,5,ML,4,64
+102,Aarav Sharma,5,Cloud Comp,3,81
+102,Aarav Sharma,5,Soft Skills,1,72
+102,Aarav Sharma,6,Compiler Design,4,66
+102,Aarav Sharma,6,Graphics,3,69
+102,Aarav Sharma,6,Security,3,68
+102,Aarav Sharma,6,Project,2,76
+103,Shreya Kumari,1,Calculus,4,74
+103,Shreya Kumari,1,Physics,3,73
+103,Shreya Kumari,1,Intro to Python,3,64
+103,Shreya Kumari,1,English,2,69
+103,Shreya Kumari,2,Linear Algebra,4,81
+103,Shreya Kumari,2,Data Structures,3,79
+103,Shreya Kumari,2,Electronics,3,79
+103,Shreya Kumari,2,EVS,2,76
+103,Shreya Kumari,3,OOP,3,79
+103,Shreya Kumari,3,Discrete Math,4,76
+103,Shreya Kumari,3,Comp Org,3,73
+103,Shreya Kumari,3,Web Tech,2,83
+103,Shreya Kumari,4,DBMS,4,73
+103,Shreya Kumari,4,OS,3,69
+103,Shreya Kumari,4,Statistics,3,83
+103,Shreya Kumari,4,Networks,3,83
+103,Shreya Kumari,5,AI,4,63
+103,Shreya Kumari,5,ML,4,79
+103,Shreya Kumari,5,Cloud Comp,3,60
+103,Shreya Kumari,5,Soft Skills,1,82
+103,Shreya Kumari,6,Compiler Design,4,68
+103,Shreya Kumari,6,Graphics,3,80
+103,Shreya Kumari,6,Security,3,70
+103,Shreya Kumari,6,Project,2,77
+104,Rohan Das,1,Calculus,4,77
+104,Rohan Das,1,Physics,3,74
+104,Rohan Das,1,Intro to Python,3,77
+104,Rohan Das,1,English,2,63
+104,Rohan Das,2,Linear Algebra,4,75
+104,Rohan Das,2,Data Structures,3,79
+104,Rohan Das,2,Electronics,3,87
+104,Rohan Das,2,EVS,2,73
+104,Rohan Das,3,OOP,3,71
+104,Rohan Das,3,Discrete Math,4,73
+104,Rohan Das,3,Comp Org,3,83
+104,Rohan Das,3,Web Tech,2,79
+104,Rohan Das,4,DBMS,4,73
+104,Rohan Das,4,OS,3,80
+104,Rohan Das,4,Statistics,3,77
+104,Rohan Das,4,Networks,3,83
+104,Rohan Das,5,AI,4,72
+104,Rohan Das,5,ML,4,74
+104,Rohan Das,5,Cloud Comp,3,74
+104,Rohan Das,5,Soft Skills,1,66
+104,Rohan Das,6,Compiler Design,4,79
+104,Rohan Das,6,Graphics,3,78
+104,Rohan Das,6,Security,3,77
+104,Rohan Das,6,Project,2,75
+105,Priya Verma,1,Calculus,4,96
+105,Priya Verma,1,Physics,3,81
+105,Priya Verma,1,Intro to Python,3,76
+105,Priya Verma,1,English,2,77
+105,Priya Verma,2,Linear Algebra,4,79
+105,Priya Verma,2,Data Structures,3,79
+105,Priya Verma,2,Electronics,3,68
+105,Priya Verma,2,EVS,2,91
+105,Priya Verma,3,OOP,3,82
+105,Priya Verma,3,Discrete Math,4,82
+105,Priya Verma,3,Comp Org,3,88
+105,Priya Verma,3,Web Tech,2,75
+105,Priya Verma,4,DBMS,4,77
+105,Priya Verma,4,OS,3,86
+105,Priya Verma,4,Statistics,3,82
+105,Priya Verma,4,Networks,3,85
+105,Priya Verma,5,AI,4,82
+105,Priya Verma,5,ML,4,81
+105,Priya Verma,5,Cloud Comp,3,93
+105,Priya Verma,5,Soft Skills,1,90
+105,Priya Verma,6,Compiler Design,4,65
+105,Priya Verma,6,Graphics,3,93
+105,Priya Verma,6,Security,3,98
+105,Priya Verma,6,Project,2,91
+101,Anna Kumar,3,calculus,4,90
+101,Anna Kumar,1,calculus,4,90
+101,Anna Kumar,1,eee,4,99
+101,Anna Kumar,2,Calculus,4,90
